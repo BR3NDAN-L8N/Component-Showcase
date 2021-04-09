@@ -1,0 +1,26 @@
+{
+  "name": "component-showcase",
+  "version": "1.0.0",
+  "description": "A showcase of React Components",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.3",
+    "react": "^17.0.1",
+    "web-vitals": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BR3NDAN-L8N/Component-Showcase.git"
+  },
+  "author": "Brendan Leighton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BR3NDAN-L8N/Component-Showcase/issues"
+  },
+  "homepage": "https://github.com/BR3NDAN-L8N/Component-Showcase#readme"
+}
