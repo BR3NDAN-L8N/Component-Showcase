@@ -4,14 +4,11 @@
   "description": "A showcase of React Components",
   "main": "index.js",
   "dependencies": {
-    "react-dom": "^17.0.1",
-    "react-scripts": "^4.0.3",
-    "react": "^17.0.1",
-    "web-vitals": "^1.1.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",
